@@ -1,1 +1,1 @@
-# Configuraci-n-horaria
+# Configuracion-horaria
