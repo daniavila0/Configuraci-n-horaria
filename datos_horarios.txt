@@ -11,3 +11,4 @@ turno_dos_verano:16,0
 fin_invierno:17,15
 extras_invierno:19,15
 extras_verano:18,0
+endline
