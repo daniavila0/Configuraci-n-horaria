@@ -1,0 +1,13 @@
+entrada_invierno:8,0
+entrada_verano:7,0
+descanso_invierno:9,45
+descanso_verano:9,45
+fin_descanso_invierno:10,0
+fin_descanso_verano:10,0
+comida_invierno:13,50
+comida_verano:15,0
+turno_dos_invierno:14,50
+turno_dos_verano:16,0
+fin_invierno:17,15
+extras_invierno:19,15
+extras_verano:18,0
